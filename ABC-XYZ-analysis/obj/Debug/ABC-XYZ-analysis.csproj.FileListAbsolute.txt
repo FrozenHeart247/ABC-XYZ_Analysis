@@ -1,0 +1,52 @@
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.exe.config
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.exe
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.pdb
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\Excel.dll
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.HelpForm.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Loader.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.AboutForm.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.MainForm.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.StartForm.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ABC_XYZtable.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ABCtable.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.CalculationABCtabte.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.CalculationXYZtable.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ColumnsForAnalysis.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Form2.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.LoadExcelFileSettings.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Properties.Resources.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.XYZTable.resources
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.CopyComplete
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.exe
+C:\Users\Alex\Desktop\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.pdb
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.exe.config
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.exe
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ABC-XYZ-analysis.pdb
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\Excel.dll
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csprojAssemblyReference.cache
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.ResolveComReference.cache
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.HelpForm.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Loader.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.AboutForm.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.MainForm.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.StartForm.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ABC_XYZtable.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ABCtable.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.CalculationABCtabte.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.CalculationXYZtable.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.ColumnsForAnalysis.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Form2.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.LoadExcelFileSettings.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.Properties.Resources.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC_XYZ_analysis.XYZTable.resources
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.GenerateResource.cache
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.CoreCompileInputs.cache
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.csproj.CopyComplete
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.exe
+D:\C# Project\ABC-XYZ-analysis-master\ABC-XYZ-analysis\obj\Debug\ABC-XYZ-analysis.pdb
